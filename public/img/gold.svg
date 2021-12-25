@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Page 1</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="banana" fill-rule="nonzero">
+            <rect id="Rectangle" fill="#A2A800" x="0" y="0" width="100" height="100"></rect>
+            <polygon id="Rectangle" fill="#BEBD0E" points="0 0 100 0 100 100"></polygon>
+        </g>
+    </g>
+</svg>

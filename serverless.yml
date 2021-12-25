@@ -1,0 +1,9 @@
+org: tetroblocks
+app: api
+service: nft
+component: express
+name: tetroblocks-api
+
+inputs:
+  src: ./
+  domain: api.tetroblocks.xyz

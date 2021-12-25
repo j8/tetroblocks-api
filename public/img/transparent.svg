@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="112px" height="112px" viewBox="0 0 112 112" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Rectangle</title>
+    <defs>
+        <linearGradient x1="16.341516%" y1="10.0834894%" x2="95.6132446%" y2="96.2037486%" id="linearGradient-1">
+            <stop stop-color="#F1CE98" offset="0%"></stop>
+            <stop stop-color="#FF00C3" offset="30.5452914%"></stop>
+            <stop stop-color="#00FFD9" stop-opacity="0.835539404" offset="65.6355574%"></stop>
+            <stop stop-color="#8883FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Style:-Minamilistic" transform="translate(-494.000000, -394.000000)">
+            <g id="Group" transform="translate(450.000000, 400.000000) rotate(-90.000000) translate(-450.000000, -400.000000) translate(350.000000, 250.000000)" fill="#FFFFFF" fill-opacity="0.328534747" stroke="#FFFFFF" stroke-width="12">
+                <rect id="Rectangle" x="0" y="100" width="100" height="100"></rect>
+                <rect id="Rectangle" x="100" y="100" width="100" height="100"></rect>
+                <rect id="Rectangle" x="0" y="200" width="100" height="100"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
